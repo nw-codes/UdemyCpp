@@ -3,7 +3,7 @@
 
 int main()
 {
-    char letter_a = 'A';
+    char letter_a = 'B';
 
     std::cout << letter_a << std::endl;
     std::cout << (int)letter_a << std::endl;
